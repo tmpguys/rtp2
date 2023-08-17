@@ -33,7 +33,7 @@ export default function Home() {
         </div>
       </header>
       <section className="w-full bg-slate-800 mt-2">
-        <Image src="/assets/banner.jpg" alt="banner RTP" width={1280} height={384} />
+        <Image src="/assets/banner.webp" alt="banner RTP" width={1280} height={384} />
       </section>
       <section className="w-full my-2 rounded px-3 py-1 bg-gray-900 text-white flex items-center space-x-3">
         <div><Image src = "/assets/icon/volume.svg" alt="My Happy SVG" width={24} height={24}/></div>
